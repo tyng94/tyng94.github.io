@@ -1,6 +1,0 @@
-{
-    "livePreview.defaultPreviewPath": "/personal-website/index.html",
-    "[html]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    }
-}
