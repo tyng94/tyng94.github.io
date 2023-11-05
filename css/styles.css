@@ -12675,6 +12675,7 @@ p.lead {
 
 .social-icons .social-icon:hover {
   background-color: #bd5d38;
+  transform: scale(1.2);
 }
 
 .dev-icons {
@@ -12708,4 +12709,8 @@ section.resume-section .resume-section-content {
     padding-top: 5rem;
     padding-bottom: 5rem;
   }
+}
+
+.skill-icon:hover {
+  transform: scale(1.3);
 }
