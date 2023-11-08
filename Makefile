@@ -6,7 +6,7 @@ deploy:
 	--exclude *.js \
 	--exclude *.html \
 	--exclude *.css \
-	--exclude .git \
+	--exclude '.git/*' \
 	--exclude '.github/*' \
 	--exclude *.md \
 	--exclude Makefile \
